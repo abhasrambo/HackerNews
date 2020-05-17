@@ -37,5 +37,6 @@ let posts = [
     Post(id: "3", title: "hello there"),
     Post(id: "4", title: "hello me"),
     Post(id: "5", title: "hello Joe"),
-    Post(id: "6", title: "hello Sheldon")
+    Post(id: "6", title: "hello Sheldon"),
+    Post(id: "7", title: "Hello Leonard")
 ]
